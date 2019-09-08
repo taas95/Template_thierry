@@ -1,0 +1,58 @@
+.login-body{
+    display: flex;
+    min-height: 30vw;
+    flex-direction: column;
+
+}
+
+.wcontainer{
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+@media screen and (max-width:400px){
+    .loginmargin{
+        min-height: 5vw;
+    }
+    .homecontainer{
+        min-height: 30vw;
+    }
+}
+
+@media screen and (min-width:1200px){
+
+    .homecontainer{
+        min-height: 30vw;
+    }
+}
+
+.wcard{
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 8px;
+    border-color: white;
+}
+.loginmargin{
+    min-height: 10vw;
+}
+
+.tabs .indicator{
+    background:#3f51b5;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active{
+    /* background: rgba(63, 81, 181, 0.1); */
+    background: transparent;
+}
+
+.btn{
+    border-radius: 20px;
+}
+
+/* Set min height */
+.homecontainer{
+    min-height: 28vw;
+}
+
+.margin-top{
+    margin-top: 3vw;
+}
