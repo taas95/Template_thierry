@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../assets/css/main.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="../assets/js/jquery-3.3.1.min.js"></script>
-    <title>Gestion Location</title>
+    <title>Paiements</title>
 </head>
 
 <body>
@@ -16,21 +16,24 @@
         <nav class="nav-wrapper indigo">
 
             <div class="container">
-                <a href="../index.html"  class="brand-logo">Gestion Location</a>
+                <a href="../index.html" class="brand-logo">Gestion Location</a>
                 <a href="" data-target="mobile-menu" class="sidenav-trigger">
                     <i class="material-icons">menu</i>
                 </a>
                 <ul class="right hide-on-med-and-down">
 
                     <li>
-                        <a href="../login.html" class="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Se déconnecter" > <i class="material-icons">power_settings_new</i> </a>
+                        <a href="../login.html" class="tooltipped" data-position="bottom" data-delay="50"
+                            data-tooltip="Se déconnecter"> <i class="material-icons">power_settings_new</i> </a>
                     </li>
                 </ul>
                 <ul class="sidenav grey ligthen-2" id="mobile-menu">
-                    <li><a href="">Immeubles</a></li>
-                    <li><a href="">Locataires</a></li>
-                    <li><a href="">Paiements</a></li>
-                    <li><a href="">Retraits</a></li>
+                    <li><a href="immeuble.html">Immeubles</a></li>
+                    <li><a href="locataires.html">Locataires</a></li>
+                    <li><a href="paiement.html">Paiements</a></li>
+                    <li><a href="retrait.html">Retraits</a></li>
+                    <li><a href="#">Propriétaires</a></li>
+
                 </ul>
             </div>
 
@@ -54,7 +57,6 @@
                 <div class="divider"></div>
             </li>
             <li><a class="subheader">Services</a></li>
-            <!-- <li><a class="subheader">Services</a></li> -->
             <li><a class="waves-effect" href="immeuble.html">Immeubles</a></li>
             <li><a class="waves-effect" href="proprietaires.html">Propriétaires</a></li>
             <li><a class="waves-effect" href="locataires.html">Locataires</a></li>
@@ -65,26 +67,24 @@
     </header>
     <section class="container margin-top">
 
-        <div class="row">
+        <div class="row margin-top">
             <div class="col s12 l2">
                 <a href="" data-target="slide-out" data-position="bottom" data-delay="50" data-tooltip="Montrer le menu"
-                    class="waves-effect waves-light sidenav-trigger tooltipped hide-on-med-and-down"> <i class="material-icons">menu</i></a></div>
+                    class="waves-effect waves-light sidenav-trigger tooltipped hide-on-med-and-down"> <i
+                        class="material-icons">menu</i></a></div>
             <div class="col s12 l8">
 
 
 
                 <form action="">
                     <div class="row">
-                        <div class="col s12 l10">
-                            <div class="input-field">
-                                <i class="material-icons prefix">search</i>
-                                <input id="searchitem" type="text">
-                                <label for="searchitem">Faite votre cherche ici</label>
-
-                            </div>
+                        <div class="col s12 l9 input-field">
+                            <input id="search" type="search" required>
+                            <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+                            <i class="material-icons">close</i>
                         </div>
-                        <div class="s12 l3 offset-l1">
-                            <a href="" class="btn center waves-effect waves-light">Valider</a>
+                        <div class="col s12 l3 input-field">
+                            <button type="submit" class="btn bottom-align waves-effect waves-light">Valider</button>
                         </div>
                 </form>
 
@@ -93,53 +93,64 @@
 
         </div>
         </div>
-        <h2 class="flow-text center">Immeubles</h2>
+        <h2 class="flow-text center">Retraits</h2>
         <div class="row">
             <div class="col s12">
 
                 <table class="centered responsive-table">
                     <thead>
                         <tr>
-                            <th class="flow-text">Propriétaire</th>
                             <th class="flow-text">Immeuble</th>
-                            <th class="flow-text">Nombre d'appartement</th>
-                            <th class="flow-text">Nombre d'appartement pris</th>
+                            <th class="flow-text">Solde brut</th>
+                            <th class="flow-text">Montant retiré</th>
+                            <th class="flow-text">Taux de retrait</th>
+                            <th class="flow-text">Retrait fait par</th>
+                            <th class="flow-text"></th>
                         </tr>
                     </thead>
 
                     <tbody>
                         <tr>
-                            <td>Alvin</td>
-                            <td>DragonBae</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td>Mariba</td>
+                            <td>1000</td>
+                            <td>90000</td>
+                            <td>10</td>
+                            <td>Mariba</td>
+                            <td></td>
                         </tr>
                         <tr>
-                            <td>Alvin</td>
-                            <td>DragonBae</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td>St avenue</td>
+                            <td>1000</td>
+                            <td>700000</td>
+                            <td>10</td>
+                            <td>Williams</td>
+                            <td></td>
                         </tr>
                         <tr>
-                            <td>Alvin</td>
-                            <td>DragonBae</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td> </td>
+                            <td> </td>
+                            <td> </td>
+                            <td> </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+
                         </tr>
                     </tbody>
                 </table>
 
             </div>
+
         </div>
         <div>
             <a modal-trigger class="btn-floating right btn-large waves-effect modal-trigger  waves-light red"
-                href="#immeublemodal"> <i class="material-icons">add</i></a>
+                href="#propriomodal"> <i class="material-icons">add</i></a>
         </div>
 
-        <div id="immeublemodal" class="modal">
+        <div id="propriomodal" class="modal">
             <div class="model-content">
                 <div class="container margin-top">
-                    <h1 class="flow-text center ">Ajouter un nouvel immeuble</h1>
+                    <h1 class="flow-text center ">Effectuer un nouveau retrait</h1>
                     <div class="row">
                         <form>
                             <div class="col s12 l6">
@@ -148,23 +159,44 @@
                                     <label for="immo">Entrer le nom de l'immeuble</label>
                                 </div>
                                 <div class="input-field">
-                                    <input type="number" id="nberoccupe">
-                                    <label for="nberoccupe">Nombre d'appartement occupé</label>
+                                    <input type="text" disabled value="1000" id="soldebrut">
+                                    <label for="soldebrut">Solde brut</label>
+                                </div>
+                                <div class="input-field">
+                                    <input type="text" value="0" id="amount">
+                                    <label for="amount">Montant à retirer</label>
+                                </div>
+                                <div class="input-field">
+                                    <input type="text" value="10" id="taux">
+                                    <label for="taux">Taux de retrait</label>
                                 </div>
                             </div>
                             <div class="col s12 l6">
                                 <div class="input-field">
-                                    <!-- <select>
-                                        <option value="" disabled selected>Nom du propriétaire</option>
-                                        <option value="1">Option 1</option>
-                                        <option value="2">Option 2</option>
-                                    </select> -->
-                                    <input type="text" id="proprio">
-                                    <label for="proprio">Nom du propriétaire</label>
+                                    <p>Choisir une personne...</p>
+                                    <p>
+                                        <label>
+                                            <input type="checkbox">
+                                            <span>Personne existante</span>
+                                        </label>
+                                    </p>
                                 </div>
                                 <div class="input-field">
-                                    <input type="number" id="nbretotal">
-                                    <label for="nbretotal"> Nombre total d'appartement</label>
+                                    <input type="text" id="existingPersons">
+                                    <label for="existingPersons">Nom de la personne</label>
+                                </div>
+
+                                <div class="input-field">
+                                    <p>
+                                        <label>
+                                            <input type="checkbox">
+                                            <span>Nouvelle personne</span>
+                                        </label>
+                                    </p>
+                                </div>
+                                <div class="input-field">
+                                    <input type="text" id="newperson">
+                                    <label for="newperson"> Nom & prenom</label>
                                 </div>
                             </div>
                         </form>
