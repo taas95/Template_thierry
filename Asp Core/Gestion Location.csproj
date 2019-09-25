@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+        <RootNamespace>Gestion_Location</RootNamespace>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.App" />
+        <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+        <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.2.0" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <Folder Include="wwwroot\lib\materialize\dist\font" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <ProjectReference Include="..\SemUtility\Utility.csproj" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\lib\Icons\Friconix.js" />
+    </ItemGroup>
+
+</Project>

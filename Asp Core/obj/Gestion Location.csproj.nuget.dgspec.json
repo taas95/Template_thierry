@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Works\\C#\\WoueziouCoursesCodeLab\\Gestion Location\\Gestion Location.csproj": {}
+  },
+  "projects": {
+    "D:\\Works\\C#\\WoueziouCoursesCodeLab\\Gestion Location\\Gestion Location.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\Gestion Location\\Gestion Location.csproj",
+        "projectName": "Gestion Location",
+        "projectPath": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\Gestion Location\\Gestion Location.csproj",
+        "packagesPath": "C:\\Users\\Woueziou\\.nuget\\packages\\",
+        "outputPath": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\Gestion Location\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Woueziou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Works\\C#\\Nugets_Extensions\\CsharpExtensions\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Works\\C#\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj": {
+                "projectPath": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Works\\C#\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj",
+        "projectName": "Utility",
+        "projectPath": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj",
+        "packagesPath": "C:\\Users\\Woueziou\\.nuget\\packages\\",
+        "outputPath": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\SemUtility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Woueziou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Works\\C#\\Nugets_Extensions\\CsharpExtensions\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3-beta1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

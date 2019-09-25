@@ -1,0 +1,124 @@
+﻿@* @model TModel *@
+@model Immeuble
+@{
+    Layout = "_Layout";
+}
+
+<partial name="_SideMenu"/>
+
+<section class="container margin-top">
+
+        <div class="row">
+            <div class="col s12 l2">
+                <a href="" data-target="slide-out" data-position="bottom" data-delay="50" data-tooltip="Montrer le menu"
+                    class="waves-effect waves-light sidenav-trigger tooltipped hide-on-med-and-down"> <i class="material-icons">menu</i></a></div>
+            <div class="col s12 l8">
+
+
+
+                <form action="">
+                    <div class="row"/>
+                    <div class="col s12 l10">
+                        <div class="input-field">
+                            <i class="material-icons prefix">search</i>
+                            <input id="searchitem" type="text">
+                            <label for="searchitem">Faite votre cherche ici</label>
+                        </div>
+                    </div>
+                    <div class="s12 l3 offset-l1">
+                        <a href="" class="btn center waves-effect waves-light">Valider</a>
+                    </div>
+                </form>
+
+
+            </div>
+
+        </div>
+    <div>
+        <h2 class="flow-text center">Immeubles</h2>
+        <div class="row">
+            <div class="col s12">
+
+                <table class="centered responsive-table">
+                    <thead>
+                        <tr>
+                            <th class="flow-text">Propriétaire</th>
+                            <th class="flow-text">Immeuble</th>
+                            <th class="flow-text">Nombre d'appartement</th>
+                            <th class="flow-text">Nombre d'appartement pris</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>Alvin</td>
+                            <td>DragonBae</td>
+                            <td>5</td>
+                            <td>5</td>
+                        </tr>
+                        <tr>
+                            <td>Alvin</td>
+                            <td>DragonBae</td>
+                            <td>5</td>
+                            <td>5</td>
+                        </tr>
+                        <tr>
+                            <td>Alvin</td>
+                            <td>DragonBae</td>
+                            <td>5</td>
+                            <td>5</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+        <div>
+            <a modal-trigger class="btn-floating right btn-large waves-effect modal-trigger  waves-light red"
+                href="#immeublemodal"> <i class="material-icons">add</i></a>
+        </div>
+        </div>
+        <div id="immeublemodal" class="modal">
+            <div class="model-content">
+                <div class="container margin-top">
+                    <h1 class="flow-text center ">Ajouter un nouvel immeuble</h1>
+                    <div class="row">
+                        <form method="post"> 
+                            <div class="col s12 l6">
+                                <div class="input-field">
+                                    <input type="text" id="immo">
+                                    <label for="immo">Entrer le nom de l'immeuble</label>
+                                </div>
+                                <div class="input-field">
+                                    <input type="number" id="nberoccupe">
+                                    <label for="nberoccupe">Nombre d'appartement occupé</label>
+                                </div>
+                            </div>
+                            <div class="col s12 l6">
+                                <div class="input-field">
+                                    <!-- <select>
+                                        <option value="" disabled selected>Nom du propriétaire</option>
+                                        <option value="1">Option 1</option>
+                                        <option value="2">Option 2</option>
+                                    </select> -->
+                                    <input type="text" id="proprio">
+                                    <label for="proprio">Nom du propriétaire</label>
+                                </div>
+                                <div class="input-field">
+                                    <input type="number" id="nbretotal">
+                                    <label for="nbretotal"> Nombre total d'appartement</label>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a href="#!" class="red modal-close waves-effect waves-green btn">Fermer</a>
+                @* <a href="@Url.Action("AddImmeuble","Immeuble")" class="indigo white-text waves-effect waves-green btn">Valider</a> *@
+                <button class="indigo white-text waves-effect waves-green btn"> Valider</button>
+            </div>
+
+        </div>
+    </section>
+

@@ -1,0 +1,40 @@
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Gestion Location.deps.json
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Gestion Location.runtimeconfig.json
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Gestion Location.runtimeconfig.dev.json
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Gestion Location.dll
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Gestion Location.pdb
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Gestion Location.Views.dll
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Gestion Location.Views.pdb
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.csprojAssemblyReference.cache
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.csproj.CoreCompileInputs.cache
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.RazorAssemblyInfo.cache
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.RazorAssemblyInfo.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.AssemblyInfoInputs.cache
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.AssemblyInfo.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.TagHelpers.input.cache
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.TagHelpers.output.cache
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.RazorCoreGenerate.cache
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.RazorTargetAssemblyInfo.cache
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.RazorTargetAssemblyInfo.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.Views.pdb
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.dll
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.pdb
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Gestion Location.csproj.CopyComplete
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Utility.dll
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\bin\Debug\netcoreapp2.2\Utility.pdb
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Immeuble\Index.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Login\index.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Locataire\Index.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Payement\Index.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Proprietaire\Index.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Retrait\Index.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_SideMenu.g.cshtml.cs
+D:\Works\C#\WoueziouCoursesCodeLab\Gestion Location\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_addProprioModal.g.cshtml.cs

@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center"> *@
+@*     <h1 class="display-4">Welcome</h1> *@
+@*     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
+@* </div> *@
+
+    <section class="container homecontainer">
+        <h2 class="center">Bienvenu</h2>
+        <div class="row margin-top">
+            <div class="col s12 l3">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="~/img/immeuble.jpg" alt="">
+                        <a class="btn-floating halfway-fab waves-effect waves-light red pulse">
+                            <i class="material-icons">add</i>
+                        </a>
+                    </div>
+                    <div class="card-content">
+                        <!-- <p><a href="views/immeuble.html">Immeubles</a></p> -->
+                        <p> <a href="@Url.Action("Index","Immeuble")" class="collection-item"><span
+                                    class="badge">4</span>Immeubles</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 l3">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="~/img/locataire.jpg" alt="">
+                        <a class="btn-floating halfway-fab waves-effect waves-light red">
+                            <i class="material-icons">add</i>
+                        </a>
+                    </div>
+                    <div class="card-content">
+                        <p> <a href="views/locataires.html" class="collection-item"><span
+                                    class="new badge">4</span>Locataires</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 l3">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="~/img/payement.jpg" alt="">
+                        <a class="btn-floating halfway-fab waves-effect waves-light red">
+                            <i class="material-icons">add</i>
+                        </a>
+                    </div>
+                    <div class="card-content">
+                        <p> <a href="views/paiement.html" class="collection-item">
+                                <span class="new badge">4</span>Paiements</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 l3">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="~/img/retrait.jpg" alt="">
+                        <a class="btn-floating halfway-fab waves-effect waves-light red">
+                            <i class="material-icons">add</i>
+                        </a>
+                    </div>
+                    <div class="card-content">
+                        <p> <a href="views/retrait.html" class="collection-item">
+                                <span class="new badge">4</span>Retraits</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>

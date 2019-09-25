@@ -1,0 +1,46 @@
+﻿@model Gestion_Location.Entities.PropriAll
+@Html.ValidationSummary(true)
+
+<div id="immeublemodal" class="modal">
+    <div class="model-content">
+        <div class="container margin-top">
+            <h1 class="flow-text center ">Ajouter un nouvel propriétaire</h1>
+            <div class="row">
+                <span asp-validation-summary="ModelOnly"></span>
+                <form method="post">
+                    <div class="col s12 l6">
+                        <div class="input-field">
+                            <input asp-for="Apropri.nom" type="text" id="nomProprio">
+                            <label asp-for="Apropri.nom" for="nomProprio"></label>
+                        </div>
+                        <div class="input-field">
+                            <input asp-for="Apropri.prenom" type="text" id="prenomProprio">
+                            <label asp-for="Apropri.prenom" for="prenomProprio"></label>
+                        </div>
+                    </div>
+                    <div class="col s12 l6">
+                        <div class="input-field">
+                            <input asp-for="Apropri.adresse" type="text" id="proprio">
+                            <label asp-for="Apropri.adresse" for="proprio"></label>
+                        </div>
+                        <div class="input-field">
+                            <input asp-for="Apropri.telephone" type="number" id="nbretotal">
+                            <label asp-for="Apropri.telephone" for="nbretotal"> </label>
+                            <span asp-validation-for="Apropri.telephone" class=""></span>
+                        </div>
+                    </div>
+                    <div class="input-field">
+                        <div class="col s12 m3 l3"> <a href="#!" class="red modal-close waves-effect waves-green btn">Fermer</a></div>
+                        <div class="col s12 m3 l3"><button class="indigo white-text waves-effect waves-green btn" type="submit" href="@Url.Action("AddProprio","Proprietaire")"> Valider</button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    @* <div class="modal-footer"> *@
+    @*     *@
+    @*     $1$ <a href="@Url.Action("AddImmeuble","Immeuble")" class="indigo white-text waves-effect waves-green btn">Valider</a> #1# *@
+    @*      *@
+    @* </div> *@
+
+</div>
