@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\Gestion Location\\Gestion Location.csproj",
+    "projectUniqueName": "D:\\Works\\Sites Web\\labs\\Thierry\\GESLOC\\Template\\Asp Core\\Gestion Location.csproj",
     "projectName": "Gestion Location",
-    "projectPath": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\Gestion Location\\Gestion Location.csproj",
-    "outputPath": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\Gestion Location\\obj\\",
+    "projectPath": "D:\\Works\\Sites Web\\labs\\Thierry\\GESLOC\\Template\\Asp Core\\Gestion Location.csproj",
+    "outputPath": "D:\\Works\\Sites Web\\labs\\Thierry\\GESLOC\\Template\\Asp Core\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -20,8 +20,8 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "D:\\Works\\C#\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj": {
-            "projectPath": "D:\\Works\\C#\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj"
+          "D:\\Works\\Sites Web\\labs\\Thierry\\GESLOC\\Template\\SemUtility\\Utility.csproj": {
+            "projectPath": "D:\\Works\\Sites Web\\labs\\Thierry\\GESLOC\\Template\\SemUtility\\Utility.csproj"
           }
         }
       }

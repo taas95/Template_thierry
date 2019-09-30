@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Woueziou\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Woueziou\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Woueziou\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Woueziou\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Woueziou\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Asp Core" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="HomeController.cs" t="Include" />
+        <e p="ImmeubleController.cs" t="Include" />
+        <e p="LocataireController.cs" t="Include" />
+        <e p="LoginController.cs" t="Include" />
+        <e p="PayementController.cs" t="Include" />
+        <e p="ProprietaireController.cs" t="Include" />
+        <e p="RetraitController.cs" t="Include" />
+      </e>
+      <e p="Entities" t="Include">
+        <e p="PropriAll.cs" t="Include" />
+        <e p="rentmanagerContext.cs" t="Include" />
+      </e>
+      <e p="Gestion Location.csproj" t="IncludeRecursive" />
+      <e p="Migrations" t="Include">
+        <e p="20190925075942_initialCreate.cs" t="Include" />
+        <e p="20190925075942_initialCreate.Designer.cs" t="Include" />
+        <e p="20190925080319_RetratTableUpdate.cs" t="Include" />
+        <e p="20190925080319_RetratTableUpdate.Designer.cs" t="Include" />
+        <e p="20190925080602_PrimaryKeysUpdate.cs" t="Include" />
+        <e p="20190925080602_PrimaryKeysUpdate.Designer.cs" t="Include" />
+        <e p="rentmanagerContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Appartement.cs" t="Include" />
+        <e p="Contrat.cs" t="Include" />
+        <e p="ContratLocation.cs" t="Include" />
+        <e p="ErrorViewModel.cs" t="Include" />
+        <e p="Immeuble.cs" t="Include" />
+        <e p="Locataire.cs" t="Include" />
+        <e p="Payement.cs" t="Include" />
+        <e p="Proprietaire.cs" t="Include" />
+        <e p="Retrait.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="Gestion Location.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+          <e p="Privacy.cshtml" t="Include" />
+        </e>
+        <e p="Immeuble" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Locataire" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Login" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Payement" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Proprietaire" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Retrait" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_addProprioModal.cshtml" t="Include" />
+          <e p="_CookieConsentPartial.cshtml" t="Include" />
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_SideMenu.cshtml" t="Include" />
+          <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="img" t="Include">
+          <e p="2766245.jpg" t="Include" />
+          <e p="immeuble.jpg" t="Include" />
+          <e p="locataire.jpg" t="Include" />
+          <e p="payement.jpg" t="Include" />
+          <e p="retrait.jpg" t="Include" />
+          <e p="user.jpg" t="Include" />
+        </e>
+        <e p="js" t="Include">
+          <e p="site.js" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap-grid.css" t="Include" />
+                <e p="bootstrap-grid.css.map" t="Include" />
+                <e p="bootstrap-grid.min.css" t="Include" />
+                <e p="bootstrap-grid.min.css.map" t="Include" />
+                <e p="bootstrap-reboot.css" t="Include" />
+                <e p="bootstrap-reboot.css.map" t="Include" />
+                <e p="bootstrap-reboot.min.css" t="Include" />
+                <e p="bootstrap-reboot.min.css.map" t="Include" />
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="bootstrap.min.css" t="Include" />
+                <e p="bootstrap.min.css.map" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.bundle.js" t="Include" />
+                <e p="bootstrap.bundle.js.map" t="Include" />
+                <e p="bootstrap.bundle.min.js" t="Include" />
+                <e p="bootstrap.bundle.min.js.map" t="Include" />
+                <e p="bootstrap.js" t="Include" />
+                <e p="bootstrap.js.map" t="Include" />
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="bootstrap.min.js.map" t="Include" />
+              </e>
+            </e>
+            <e p="LICENSE" t="Include" />
+          </e>
+          <e p="jquery" t="Include">
+            <e p="dist" t="Include">
+              <e p="jquery.js" t="Include" />
+              <e p="jquery.min.js" t="Include" />
+              <e p="jquery.min.map" t="Include" />
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="jquery-validation" t="Include">
+            <e p="dist" t="Include">
+              <e p="additional-methods.js" t="Include" />
+              <e p="additional-methods.min.js" t="Include" />
+              <e p="jquery.validate.js" t="Include" />
+              <e p="jquery.validate.min.js" t="Include" />
+            </e>
+            <e p="LICENSE.md" t="Include" />
+          </e>
+          <e p="jquery-validation-unobtrusive" t="Include">
+            <e p="jquery.validate.unobtrusive.js" t="Include" />
+            <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="materialize" t="Include">
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="materialize.css" t="Include" />
+                <e p="materialize.min.css" t="Include" />
+              </e>
+              <e p="font" t="Include" />
+              <e p="js" t="Include">
+                <e p="materialize.js" t="Include" />
+                <e p="materialize.min.js" t="Include" />
+              </e>
+              <e p="LICENSE" t="Include" />
+              <e p="README.md" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\bin\Debug\netcoreapp2.2\Utility.deps.json
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\bin\Debug\netcoreapp2.2\Utility.dll
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\bin\Debug\netcoreapp2.2\Utility.pdb
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\obj\Debug\netcoreapp2.2\Utility.csprojAssemblyReference.cache
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\obj\Debug\netcoreapp2.2\Utility.csproj.CoreCompileInputs.cache
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\obj\Debug\netcoreapp2.2\Utility.AssemblyInfoInputs.cache
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\obj\Debug\netcoreapp2.2\Utility.AssemblyInfo.cs
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\obj\Debug\netcoreapp2.2\Utility.dll
+D:\Works\C#\WoueziouCoursesCodeLab\SemUtility\obj\Debug\netcoreapp2.2\Utility.pdb
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\bin\Debug\netcoreapp2.2\Utility.deps.json
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\bin\Debug\netcoreapp2.2\Utility.dll
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\bin\Debug\netcoreapp2.2\Utility.pdb
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\obj\Debug\netcoreapp2.2\Utility.csprojAssemblyReference.cache
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\obj\Debug\netcoreapp2.2\Utility.csproj.CoreCompileInputs.cache
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\obj\Debug\netcoreapp2.2\Utility.AssemblyInfoInputs.cache
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\obj\Debug\netcoreapp2.2\Utility.AssemblyInfo.cs
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\obj\Debug\netcoreapp2.2\Utility.dll
+D:\Works\Sites Web\labs\Thierry\GESLOC\Template\Utility\obj\Debug\netcoreapp2.2\Utility.pdb

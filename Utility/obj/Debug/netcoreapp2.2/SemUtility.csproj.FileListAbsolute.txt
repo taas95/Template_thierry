@@ -1,0 +1,9 @@
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\bin\Debug\netcoreapp2.2\SemUtility.deps.json
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\bin\Debug\netcoreapp2.2\SemUtility.dll
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\bin\Debug\netcoreapp2.2\SemUtility.pdb
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\obj\Debug\netcoreapp2.2\SemUtility.csprojAssemblyReference.cache
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\obj\Debug\netcoreapp2.2\SemUtility.csproj.CoreCompileInputs.cache
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\obj\Debug\netcoreapp2.2\SemUtility.AssemblyInfoInputs.cache
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\obj\Debug\netcoreapp2.2\SemUtility.AssemblyInfo.cs
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\obj\Debug\netcoreapp2.2\SemUtility.dll
+D:\Works\C#\ASP Core\SemfieldCodeLabs\SemUtility\obj\Debug\netcoreapp2.2\SemUtility.pdb
