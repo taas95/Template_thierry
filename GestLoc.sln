@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion Location", "Asp Core\Gestion Location.csproj", "{410B43E3-33AD-4AB2-97CA-4BDC3C1A3F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{1AACD5F2-CB58-4B2C-ACBB-AA3A85DE05F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410B43E3-33AD-4AB2-97CA-4BDC3C1A3F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410B43E3-33AD-4AB2-97CA-4BDC3C1A3F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410B43E3-33AD-4AB2-97CA-4BDC3C1A3F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410B43E3-33AD-4AB2-97CA-4BDC3C1A3F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AACD5F2-CB58-4B2C-ACBB-AA3A85DE05F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AACD5F2-CB58-4B2C-ACBB-AA3A85DE05F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AACD5F2-CB58-4B2C-ACBB-AA3A85DE05F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AACD5F2-CB58-4B2C-ACBB-AA3A85DE05F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

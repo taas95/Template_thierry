@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Works\\CSharp\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj",
+    "projectUniqueName": "C:\\Users\\Woueziou\\Documents\\GitHub\\Template_thierry\\Utility\\Utility.csproj",
     "projectName": "Utility",
-    "projectPath": "D:\\Works\\CSharp\\WoueziouCoursesCodeLab\\SemUtility\\Utility.csproj",
-    "outputPath": "D:\\Works\\CSharp\\WoueziouCoursesCodeLab\\SemUtility\\obj\\",
+    "projectPath": "C:\\Users\\Woueziou\\Documents\\GitHub\\Template_thierry\\Utility\\Utility.csproj",
+    "outputPath": "C:\\Users\\Woueziou\\Documents\\GitHub\\Template_thierry\\Utility\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14,7 +14,6 @@
     ],
     "sources": {
       "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-      "D:\\Works\\C#\\Nugets_Extensions\\CsharpExtensions\\Nugets": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
@@ -47,10 +46,16 @@
         }
       },
       "imports": [
-        "net461"
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
     }
   }
 }
